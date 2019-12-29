@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KocFinans.CreditScoreCalculation\KocFinans.CreditCalculation.csproj" />
+    <ProjectReference Include="..\KocFinans.CreditScoreCalculation\KocFinans.CreditCalculation.Api.csproj" />
   </ItemGroup>
 
 </Project>
